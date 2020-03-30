@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/aircarft/scenes/dessert.unity
+- path: Assets/aircarft/scenes/MainMenu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+    path: Assets/aircarft/scenes/MainMenu.unity
+    guid: 93c21991b8a146249a3476324a0c70b7
+  - enabled: 1
+    path: Assets/aircarft/scenes/dessert.unity
+    guid: 21f800d461f68b44383ebfdda2a81809
+  - enabled: 1
+    path: Assets/aircarft/scenes/City.unity
+    guid: 813065552c188934dae0c62d2af717c3
   m_configObjects: {}
